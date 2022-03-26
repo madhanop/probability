@@ -1,5 +1,4 @@
-# probability
-second repository
+
 from statistics import NormalDist
 mu=int(input("Enter the mu"))
 sigma=int(input("Enter the sigma"))
